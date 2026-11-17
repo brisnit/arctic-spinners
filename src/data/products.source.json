@@ -1,0 +1,1147 @@
+[
+  {
+    "slug": "arctic-raspberry-c",
+    "name": "Arctic Raspberry C",
+    "fullName": "Arctic Raspberry C Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": "5195346",
+    "image": {
+      "src": "/images/products/arctic-raspberry-c.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/arctic-raspberry-c-arctic-spinner-1/",
+    "cutout": {
+      "src": "/images/products/cutout/arctic-raspberry-c.png",
+      "width": 553,
+      "height": 1024
+    }
+  },
+  {
+    "slug": "arctic-wonder",
+    "name": "Arctic Wonder",
+    "fullName": "Arctic Wonder Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": "5662892",
+    "image": {
+      "src": "/images/products/arctic-wonder.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/arctic-wonder-arctic-spinner-1/",
+    "cutout": {
+      "src": "/images/products/cutout/arctic-wonder.png",
+      "width": 632,
+      "height": 1000
+    }
+  },
+  {
+    "slug": "black-black-black",
+    "name": "Black-Black-Black",
+    "fullName": "Black-Black-Black Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-black.jpg",
+      "width": 241,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-black.png",
+      "width": 223,
+      "height": 400
+    }
+  },
+  {
+    "slug": "black-black-blue",
+    "name": "Black-Black-Blue",
+    "fullName": "Black-Black-Blue Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-blue.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/black-black-blue-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-blue.png",
+      "width": 324,
+      "height": 908
+    }
+  },
+  {
+    "slug": "black-black-gold",
+    "name": "Black-Black-Gold",
+    "fullName": "Black-Black-Gold Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-gold.jpg",
+      "width": 240,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/black-black-gold-arctic-spinner/",
+    "cutout": null
+  },
+  {
+    "slug": "black-black-green",
+    "name": "Black-Black-Green",
+    "fullName": "Black-Black-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-green.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-purple-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-green.png",
+      "width": 363,
+      "height": 838
+    }
+  },
+  {
+    "slug": "black-black-orange",
+    "name": "Black-Black-Orange",
+    "fullName": "Black-Black-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-orange.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-orange.png",
+      "width": 371,
+      "height": 995
+    }
+  },
+  {
+    "slug": "black-black-purple",
+    "name": "Black-Black-Purple",
+    "fullName": "Black-Black-Purple Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-purple.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-purple-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-purple.png",
+      "width": 363,
+      "height": 838
+    }
+  },
+  {
+    "slug": "black-black-red",
+    "name": "Black-Black-Red",
+    "fullName": "Black-Black-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-black-red.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/black-black-red-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-black-red.png",
+      "width": 424,
+      "height": 1024
+    }
+  },
+  {
+    "slug": "black-firetiger-green",
+    "name": "Black-FireTiger-Green",
+    "fullName": "Black-FireTiger-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-firetiger-green.jpg",
+      "width": 223,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/black-firetiger-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-firetiger-green.png",
+      "width": 212,
+      "height": 399
+    }
+  },
+  {
+    "slug": "black-nickel-red",
+    "name": "Black-Nickel-Red",
+    "fullName": "Black-Nickel-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/black-nickel-red.jpg",
+      "width": 179,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/black-nickel-red-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/black-nickel-red.png",
+      "width": 171,
+      "height": 400
+    }
+  },
+  {
+    "slug": "blue-blue-blue",
+    "name": "Blue-Blue-Blue",
+    "fullName": "Blue-Blue-Blue Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/blue-blue-blue.jpg",
+      "width": 218,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/blue-blue-blue-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/blue-blue-blue.png",
+      "width": 215,
+      "height": 374
+    }
+  },
+  {
+    "slug": "blue-nickel-blue",
+    "name": "Blue-Nickel-Blue",
+    "fullName": "Blue-Nickel-Blue Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/blue-nickel-blue.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/blue-nickel-blue-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/blue-nickel-blue.png",
+      "width": 329,
+      "height": 879
+    }
+  },
+  {
+    "slug": "brown-nickel-black",
+    "name": "Brown-Nickel-Black",
+    "fullName": "Brown-Nickel-Black Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/brown-nickel-black.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/brown-black-nickel-arctic-spinner/",
+    "cutout": null
+  },
+  {
+    "slug": "chartreuse-green-chartreuse",
+    "name": "Chartreuse-Green-Chartreuse",
+    "fullName": "Chartreuse-Green-Chartreuse Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/chartreuse-green-chartreuse.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/chartreuse-green-chartreuse-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/chartreuse-green-chartreuse.png",
+      "width": 358,
+      "height": 949
+    }
+  },
+  {
+    "slug": "chartreuse-nickel-chartreuse",
+    "name": "Chartreuse-Nickel-Chartreuse",
+    "fullName": "Chartreuse-Nickel-Chartreuse Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/chartreuse-nickel-chartreuse.jpg",
+      "width": 194,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/chartreuse-chartreuse-nickel-arctic-spinner/",
+    "cutout": null
+  },
+  {
+    "slug": "glow-black-black",
+    "name": "GLOW-Black-Black",
+    "fullName": "GLOW-Black-Black Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-black-black.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-black-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-black-black.png",
+      "width": 375,
+      "height": 978
+    }
+  },
+  {
+    "slug": "glow-black-green",
+    "name": "GLOW-Black-Green",
+    "fullName": "GLOW-Black-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-black-green.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-purple-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-black-green.png",
+      "width": 363,
+      "height": 838
+    }
+  },
+  {
+    "slug": "glow-black-orange",
+    "name": "GLOW-Black-Orange",
+    "fullName": "GLOW-Black-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-black-orange.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-orange-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-black-orange.png",
+      "width": 371,
+      "height": 995
+    }
+  },
+  {
+    "slug": "glow-black-purple",
+    "name": "GLOW-Black-Purple",
+    "fullName": "GLOW-Black-Purple Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-black-purple.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-black-purple-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-black-purple.png",
+      "width": 363,
+      "height": 838
+    }
+  },
+  {
+    "slug": "glow-black-red",
+    "name": "GLOW-Black-Red",
+    "fullName": "GLOW-Black-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-black-red.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-chartreuse-arctic-spinner-4/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-black-red.png",
+      "width": 424,
+      "height": 1024
+    }
+  },
+  {
+    "slug": "glow-blue",
+    "name": "GLOW-Blue",
+    "fullName": "GLOW-Blue Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-blue.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-chartreuse-arctic-spinner-6/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-blue.png",
+      "width": 369,
+      "height": 996
+    }
+  },
+  {
+    "slug": "glow-chartreuse",
+    "name": "GLOW-Chartreuse",
+    "fullName": "GLOW-Chartreuse Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-chartreuse.jpg",
+      "width": 186,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-chartreuse-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-chartreuse.png",
+      "width": 186,
+      "height": 400
+    }
+  },
+  {
+    "slug": "glow-green",
+    "name": "GLOW-Green",
+    "fullName": "GLOW-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-green.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-green.png",
+      "width": 382,
+      "height": 1024
+    }
+  },
+  {
+    "slug": "glow-orange",
+    "name": "GLOW-Orange",
+    "fullName": "GLOW-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [],
+    "inStock": false,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-orange.jpg",
+      "width": 272,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-orange-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-orange.png",
+      "width": 262,
+      "height": 386
+    }
+  },
+  {
+    "slug": "glow-pink",
+    "name": "GLOW-Pink",
+    "fullName": "GLOW-Pink Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-pink.jpg",
+      "width": 172,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-pink-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-pink.png",
+      "width": 172,
+      "height": 400
+    }
+  },
+  {
+    "slug": "glow-purple",
+    "name": "GLOW-Purple",
+    "fullName": "GLOW-Purple Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-purple.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-purple-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-purple.png",
+      "width": 327,
+      "height": 992
+    }
+  },
+  {
+    "slug": "glow-red",
+    "name": "GLOW-Red",
+    "fullName": "GLOW-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-red.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-chartreuse-arctic-spinner-1/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-red.png",
+      "width": 343,
+      "height": 972
+    }
+  },
+  {
+    "slug": "glow-white",
+    "name": "GLOW-White",
+    "fullName": "GLOW-White Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-white.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-chartreuse-arctic-spinner-2/",
+    "cutout": null
+  },
+  {
+    "slug": "glow-white-green",
+    "name": "GLOW-White-Green",
+    "fullName": "GLOW-White-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-white-green.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-white-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-white-green.png",
+      "width": 316,
+      "height": 961
+    }
+  },
+  {
+    "slug": "glow-yellow",
+    "name": "GLOW-Yellow",
+    "fullName": "GLOW-Yellow Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/glow-yellow.jpg",
+      "width": 188,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/glow-yellow-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/glow-yellow.png",
+      "width": 179,
+      "height": 397
+    }
+  },
+  {
+    "slug": "green-firetiger-green",
+    "name": "Green-FireTiger-Green",
+    "fullName": "Green-FireTiger-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/green-firetiger-green.jpg",
+      "width": 251,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/green-firetiger-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/green-firetiger-green.png",
+      "width": 225,
+      "height": 388
+    }
+  },
+  {
+    "slug": "green-green-green",
+    "name": "Green-Green-Green",
+    "fullName": "Green-Green-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/green-green-green.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/green-green-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/green-green-green.png",
+      "width": 397,
+      "height": 966
+    }
+  },
+  {
+    "slug": "green-nickel-green",
+    "name": "Green-Nickel-Green",
+    "fullName": "Green-Nickel-Green Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/green-nickel-green.jpg",
+      "width": 190,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/green-nickel-green-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/green-nickel-green.png",
+      "width": 183,
+      "height": 400
+    }
+  },
+  {
+    "slug": "orange-firetiger-orange",
+    "name": "Orange-FireTiger-Orange",
+    "fullName": "Orange-FireTiger-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/orange-firetiger-orange.jpg",
+      "width": 248,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/orange-firetiger-orange-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/orange-firetiger-orange.png",
+      "width": 248,
+      "height": 393
+    }
+  },
+  {
+    "slug": "orange-orange-brass",
+    "name": "Orange-Orange-Brass",
+    "fullName": "Orange-Orange-Brass Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz",
+      "1/2 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/orange-orange-brass.jpg",
+      "width": 173,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/orange-orange-brass-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/orange-orange-brass.png",
+      "width": 173,
+      "height": 400
+    }
+  },
+  {
+    "slug": "orange-orange-nickel",
+    "name": "Orange-Orange-Nickel",
+    "fullName": "Orange-Orange-Nickel Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/orange-orange-nickel.jpg",
+      "width": 173,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/orange-orange-nickel-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/orange-orange-nickel.png",
+      "width": 173,
+      "height": 400
+    }
+  },
+  {
+    "slug": "orange-orange-orange",
+    "name": "Orange-Orange-Orange",
+    "fullName": "Orange-Orange-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/orange-orange-orange.jpg",
+      "width": 272,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/orange-orange-orange-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/orange-orange-orange.png",
+      "width": 262,
+      "height": 386
+    }
+  },
+  {
+    "slug": "pink-nickle-red",
+    "name": "Pink-Nickle-Red",
+    "fullName": "Pink-Nickle-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/pink-nickle-red.jpg",
+      "width": 189,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/pink-nickle-red-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/pink-nickle-red.png",
+      "width": 185,
+      "height": 400
+    }
+  },
+  {
+    "slug": "pink-pink-pink",
+    "name": "Pink-Pink-Pink",
+    "fullName": "Pink-Pink-Pink Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/pink-pink-pink.jpg",
+      "width": 172,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/pink-pink-pink-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/pink-pink-pink.png",
+      "width": 172,
+      "height": 400
+    }
+  },
+  {
+    "slug": "platte-magic",
+    "name": "Platte Magic",
+    "fullName": "Platte Magic Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/platte-magic.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/platte-magic-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/platte-magic.png",
+      "width": 719,
+      "height": 907
+    }
+  },
+  {
+    "slug": "purple-nickel-purple",
+    "name": "Purple-Nickel-Purple",
+    "fullName": "Purple-Nickel-Purple Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/purple-nickel-purple.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/purple-purple-nickel-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/purple-nickel-purple.png",
+      "width": 306,
+      "height": 1020
+    }
+  },
+  {
+    "slug": "purple-purple-purple",
+    "name": "Purple-Purple-Purple",
+    "fullName": "Purple-Purple-Purple Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/purple-purple-purple.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/purple-purple-blue-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/purple-purple-purple.png",
+      "width": 330,
+      "height": 948
+    }
+  },
+  {
+    "slug": "red-nickel-red",
+    "name": "Red-Nickel-Red",
+    "fullName": "Red-Nickel-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/red-nickel-red.jpg",
+      "width": 179,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/red-nickel-red-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/red-nickel-red.png",
+      "width": 179,
+      "height": 400
+    }
+  },
+  {
+    "slug": "red-red-red",
+    "name": "Red-Red-Red",
+    "fullName": "Red-Red-Red Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/red-red-red.jpg",
+      "width": 185,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/red-red-red-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/red-red-red.png",
+      "width": 185,
+      "height": 400
+    }
+  },
+  {
+    "slug": "white-green-white",
+    "name": "White-Green-White",
+    "fullName": "White-Green-White Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/white-green-white.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "sourceUrl": "https://arcticspinner.com/store/white-green-white-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/white-green-white.png",
+      "width": 316,
+      "height": 961
+    }
+  },
+  {
+    "slug": "white-nickel-white",
+    "name": "White-Nickel-White",
+    "fullName": "White-Nickel-White Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/white-nickel-white.jpg",
+      "width": 177,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/white-white-nickel-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/white-nickel-white.png",
+      "width": 176,
+      "height": 394
+    }
+  },
+  {
+    "slug": "white-white-white",
+    "name": "White-White-White",
+    "fullName": "White-White-White Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/white-white-white.jpg",
+      "width": 188,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/white-white-white-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/white-white-white.png",
+      "width": 170,
+      "height": 400
+    }
+  },
+  {
+    "slug": "yellow-firetiger-orange",
+    "name": "Yellow-FireTiger-Orange",
+    "fullName": "Yellow-FireTiger-Orange Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/yellow-firetiger-orange.jpg",
+      "width": 278,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/yellow-firetiger-orange-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/yellow-firetiger-orange.png",
+      "width": 236,
+      "height": 379
+    }
+  },
+  {
+    "slug": "yellow-nickel-yellow",
+    "name": "Yellow-Nickel-Yellow",
+    "fullName": "Yellow-Nickel-Yellow Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/yellow-nickel-yellow.jpg",
+      "width": 183,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/yellow-yellow-nickel-arctic-spinner/",
+    "cutout": null
+  },
+  {
+    "slug": "yellow-yellow-yellow",
+    "name": "Yellow-Yellow-Yellow",
+    "fullName": "Yellow-Yellow-Yellow Arctic Spinner",
+    "price": 6.99,
+    "weights": [
+      "1/4 oz",
+      "5/16 oz"
+    ],
+    "inStock": true,
+    "modelNumber": null,
+    "image": {
+      "src": "/images/products/yellow-yellow-yellow.jpg",
+      "width": 188,
+      "height": 400
+    },
+    "sourceUrl": "https://arcticspinner.com/store/yellow-yellow-yellow-arctic-spinner/",
+    "cutout": {
+      "src": "/images/products/cutout/yellow-yellow-yellow.png",
+      "width": 179,
+      "height": 397
+    }
+  }
+]
