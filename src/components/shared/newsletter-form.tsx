@@ -85,7 +85,7 @@ export function NewsletterForm({ tone = "light", className }: { tone?: "light" |
                 aria-invalid={Boolean(error)}
                 aria-describedby={error ? `${id}-err` : undefined}
                 className={cn(
-                  "h-11 min-w-0 flex-1 bg-transparent px-3 text-[0.95rem] outline-none",
+                  "h-11 w-0 min-w-0 flex-1 bg-transparent px-3 text-[0.95rem] outline-none",
                   dark ? "text-white placeholder:text-white/50" : "text-navy placeholder:text-muted-foreground/70",
                 )}
               />

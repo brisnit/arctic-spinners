@@ -99,7 +99,7 @@ export default async function ProductPage({ params }: PageProps<"/shop/[slug]">)
           / <span className="text-navy">{product.name}</span>
         </nav>
 
-        <div className="grid gap-10 lg:grid-cols-12 lg:gap-14">
+        <div className="grid gap-10 grid-cols-[minmax(0,1fr)] lg:grid-cols-12 lg:gap-14">
           <div className="lg:col-span-7">
             <div className="lg:sticky lg:top-28">
               <ProductGallery product={product} />
@@ -184,7 +184,7 @@ export default async function ProductPage({ params }: PageProps<"/shop/[slug]">)
 
       {/* From the water */}
       <section className="bg-ice py-16 sm:py-20">
-        <div className="container-page grid items-center gap-10 lg:grid-cols-12">
+        <div className="container-page grid items-center gap-10 grid-cols-[minmax(0,1fr)] lg:grid-cols-12">
           {storyPhoto && (
             <Reveal className="lg:col-span-5">
               <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">

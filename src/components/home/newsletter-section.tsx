@@ -8,7 +8,7 @@ export function NewsletterSection() {
   return (
     <section className="py-16 sm:py-24" aria-labelledby="newsletter-heading">
       <div className="container-page">
-        <div className="relative grid overflow-hidden rounded-3xl bg-arctic text-white lg:grid-cols-12">
+        <div className="relative grid grid-cols-[minmax(0,1fr)] overflow-hidden rounded-3xl bg-arctic text-white lg:grid-cols-12">
           <div aria-hidden className="pointer-events-none absolute -top-24 -left-24 size-80 rounded-full border-[48px] border-white/10" />
           <div className="relative p-8 sm:p-12 lg:col-span-7 lg:p-16">
             <Reveal>

@@ -53,7 +53,7 @@ export default function OurStoryPage() {
       {/* Hero */}
       <section className="relative overflow-hidden bg-ice">
         <div aria-hidden className="pointer-events-none absolute -top-32 -right-32 size-[36rem] rounded-full border-[72px] border-arctic/[0.06]" />
-        <div className="container-page relative grid items-center gap-12 py-16 sm:py-24 lg:grid-cols-12">
+        <div className="container-page relative grid items-center gap-12 py-16 sm:py-24 grid-cols-[minmax(0,1fr)] lg:grid-cols-12">
           <div className="lg:col-span-7">
             <Reveal>
               <p className="eyebrow mb-4 text-arctic">Our Story</p>
@@ -90,7 +90,7 @@ export default function OurStoryPage() {
 
       {/* Origin */}
       <section className="py-16 sm:py-24">
-        <div className="container-page grid gap-12 lg:grid-cols-12">
+        <div className="container-page grid gap-12 grid-cols-[minmax(0,1fr)] lg:grid-cols-12">
           <Reveal className="lg:col-span-5">
             <p className="display text-[9rem] leading-none text-arctic sm:text-[12rem]">’67</p>
             <p className="eyebrow mt-2 text-muted-foreground">Bear Lake, Michigan</p>
@@ -139,7 +139,7 @@ export default function OurStoryPage() {
 
       {/* Made to catch / built to last */}
       <section className="py-16 sm:py-24">
-        <div className="container-page grid gap-6 lg:grid-cols-2">
+        <div className="container-page grid gap-6 grid-cols-[minmax(0,1fr)] lg:grid-cols-2">
           <Reveal className="group relative overflow-hidden rounded-2xl bg-ice">
             <div className="relative aspect-[4/3]">
               <Image
@@ -179,7 +179,7 @@ export default function OurStoryPage() {
 
       {/* Promise */}
       <section className="bg-ice py-16 sm:py-24">
-        <div className="container-page grid items-center gap-10 lg:grid-cols-12">
+        <div className="container-page grid items-center gap-10 grid-cols-[minmax(0,1fr)] lg:grid-cols-12">
           <Reveal className="lg:col-span-8">
             <Quote className="size-12 text-arctic" />
             <blockquote className="display mt-5 text-4xl leading-[0.98] text-navy sm:text-6xl">

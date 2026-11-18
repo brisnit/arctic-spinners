@@ -30,7 +30,7 @@ export default function TestimonialsPage() {
 
       <div className="container-page divide-y divide-border">
         {testimonials.map((t, i) => (
-          <article key={t.id} id={t.id} className="grid scroll-mt-28 gap-10 py-14 sm:py-20 lg:grid-cols-12 lg:gap-16">
+          <article key={t.id} id={t.id} className="grid scroll-mt-28 gap-10 py-14 sm:py-20 grid-cols-[minmax(0,1fr)] lg:grid-cols-12 lg:gap-16">
             <Reveal className={cn("lg:col-span-5", i % 2 === 1 && "lg:order-2 lg:col-start-8")}>
               {t.photos.length > 0 ? (
                 <div className={cn("grid gap-3", t.photos.length > 1 && "grid-cols-2")}>

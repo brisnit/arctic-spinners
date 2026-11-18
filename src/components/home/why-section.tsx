@@ -38,7 +38,7 @@ export function WhySection() {
 
   return (
     <section className="overflow-hidden bg-ice py-16 sm:py-24" aria-labelledby="why-heading">
-      <div className="container-page grid items-center gap-12 lg:grid-cols-12 lg:gap-16">
+      <div className="container-page grid items-center gap-12 grid-cols-[minmax(0,1fr)] lg:grid-cols-12 lg:gap-16">
         <Reveal className="relative lg:col-span-5">
           <div className="relative aspect-[4/5] overflow-hidden rounded-2xl bg-white">
             <LureImage image={hero.images[0]} sizes="(min-width: 1024px) 40vw, 90vw" pad="p-12" className="rotate-[-8deg]" />

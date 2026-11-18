@@ -25,7 +25,7 @@ export function Hero() {
       <PlaceholderChip className="absolute top-4 right-4" />
 
       <div className="container-page flex min-h-[clamp(560px,calc(100svh-6.75rem),860px)] flex-col justify-end pt-24 pb-10 sm:pb-14 lg:pb-16">
-        <div className="grid items-end gap-10 lg:grid-cols-12">
+        <div className="grid items-end gap-10 grid-cols-[minmax(0,1fr)] lg:grid-cols-12">
           <div className="lg:col-span-8 xl:col-span-7">
             <Reveal>
               <p className="eyebrow mb-5 inline-flex items-center gap-2 rounded-full bg-white/10 px-3.5 py-1.5 text-white ring-1 ring-white/20 backdrop-blur-sm">

@@ -39,7 +39,7 @@ export function SiteFooter() {
   return (
     <footer className="relative overflow-hidden bg-navy text-white">
       <div aria-hidden className="pointer-events-none absolute -bottom-40 -left-40 size-[34rem] rounded-full border-[80px] border-white/[0.03]" />
-      <div className="container-page relative grid gap-12 py-16 lg:grid-cols-12 lg:py-20">
+      <div className="container-page relative grid grid-cols-[minmax(0,1fr)] gap-12 py-16 lg:grid-cols-12 lg:py-20">
         <div className="lg:col-span-4 xl:col-span-3">
           <Wordmark />
           <p className="mt-5 max-w-sm text-sm leading-relaxed text-white/70">

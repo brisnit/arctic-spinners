@@ -145,7 +145,7 @@ export function ShopCatalog() {
         </div>
       </div>
 
-      <div className="container-page grid gap-10 py-8 lg:grid-cols-[16rem_1fr] lg:py-12 xl:gap-14">
+      <div className="container-page grid gap-10 py-8 grid-cols-[minmax(0,1fr)] lg:grid-cols-[16rem_1fr] lg:py-12 xl:gap-14">
         {/* Desktop sidebar */}
         <aside className="hidden lg:block" aria-label="Filters">
           <div className="sticky top-28">
@@ -414,7 +414,7 @@ function FilterPanel({
 
 export function ShopCatalogFallback() {
   return (
-    <div className="container-page grid gap-10 py-12 lg:grid-cols-[16rem_1fr]">
+    <div className="container-page grid gap-10 py-12 grid-cols-[minmax(0,1fr)] lg:grid-cols-[16rem_1fr]">
       <div className="hidden space-y-3 lg:block">
         {Array.from({ length: 8 }).map((_, i) => (
           <div key={i} className="h-5 animate-pulse rounded bg-ice" />

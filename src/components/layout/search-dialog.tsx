@@ -42,7 +42,7 @@ export function SearchDialog({ open, onOpenChange }: { open: boolean; onOpenChan
               value={q}
               onChange={(e) => setQ(e.target.value)}
               placeholder="Search by color or name — try “glow” or “firetiger”"
-              className="w-full bg-transparent text-xl font-medium text-navy outline-none placeholder:text-muted-foreground/70 sm:text-2xl"
+              className="w-full min-w-0 bg-transparent text-xl font-medium text-navy outline-none placeholder:text-muted-foreground/70 sm:text-2xl"
               aria-label="Search lures"
             />
           </form>

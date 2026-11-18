@@ -69,7 +69,7 @@ export function CheckoutDemo() {
   }
 
   return (
-    <div className="grid gap-10 lg:grid-cols-12 lg:gap-14">
+    <div className="grid gap-10 grid-cols-[minmax(0,1fr)] lg:grid-cols-12 lg:gap-14">
       <div className="lg:col-span-7">
         <Link href="/shop" className="inline-flex items-center gap-1.5 text-sm font-semibold text-arctic hover:underline">
           <ArrowLeft className="size-4" /> Continue shopping
